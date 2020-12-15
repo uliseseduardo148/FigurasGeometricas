@@ -1,0 +1,13 @@
+C:\Users\cliente-preferido\source\repos\FigurasGeometricas\bin\Debug\FigurasGeometricas.exe.config
+C:\Users\cliente-preferido\source\repos\FigurasGeometricas\bin\Debug\FigurasGeometricas.exe
+C:\Users\cliente-preferido\source\repos\FigurasGeometricas\bin\Debug\FigurasGeometricas.pdb
+C:\Users\cliente-preferido\source\repos\FigurasGeometricas\obj\Debug\FigurasGeometricas.csprojAssemblyReference.cache
+C:\Users\cliente-preferido\source\repos\FigurasGeometricas\obj\Debug\FigurasGeometricas.MenuPrincipal.resources
+C:\Users\cliente-preferido\source\repos\FigurasGeometricas\obj\Debug\FigurasGeometricas.Properties.Resources.resources
+C:\Users\cliente-preferido\source\repos\FigurasGeometricas\obj\Debug\FigurasGeometricas.csproj.GenerateResource.cache
+C:\Users\cliente-preferido\source\repos\FigurasGeometricas\obj\Debug\FigurasGeometricas.csproj.CoreCompileInputs.cache
+C:\Users\cliente-preferido\source\repos\FigurasGeometricas\obj\Debug\FigurasGeometricas.exe
+C:\Users\cliente-preferido\source\repos\FigurasGeometricas\obj\Debug\FigurasGeometricas.pdb
+C:\Users\cliente-preferido\source\repos\FigurasGeometricas\obj\Debug\FigurasGeometricas.Formularios.FormRectangulo.resources
+C:\Users\cliente-preferido\source\repos\FigurasGeometricas\obj\Debug\FigurasGeometricas.Formularios.FormTriangulo.resources
+C:\Users\cliente-preferido\source\repos\FigurasGeometricas\obj\Debug\FigurasGeometricas.Formularios.FormCirculo.resources
